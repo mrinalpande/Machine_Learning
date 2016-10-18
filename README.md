@@ -1,2 +1,5 @@
 # Machine_Learning
-Code from machine learning tutorials
+
+Machine Learning code from online tutorials
+
+Data set used from <a href="http://archive.ics.uci.edu/ml/datasets.html"/>
