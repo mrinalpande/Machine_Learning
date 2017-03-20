@@ -11,3 +11,4 @@ Reference
 * <a href="https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v"> Intro to machine learning -by Sentdex</a>
 * <a href="https://www.udacity.com/course/intro-to-machine-learning--ud120"> Udacity Intro to machine learning</a>
 * <a href="https://github.com/sebasibarguen/udacity-nanodegree-machinelearning"> Udacity Machine learning repository</a>
+* <a href="http://scikit-learn.org/stable/documentation.html"> Scikit-Learn</a>
